@@ -11,9 +11,9 @@ MAX_BLOCK_SIZE = 1024 # the max block size any of our models will have (defined 
 
 
 ###################### FILL THIS OUT WITH MODEL DETAILS ######################
-from exp3.run import GPT # load the model class defined in the experiment file
-path_to_experiment = Path("exp3/")
-path_to_model = "exp3/model.pth"
+from exp4.exp4 import GPT # load the model class defined in the experiment file
+path_to_experiment = Path("exp4/")
+path_to_model = "exp4/model.pth"
 BLOCK_SIZE = 128
 ############################################################################
 # -----------------------------------------------------------------------------
