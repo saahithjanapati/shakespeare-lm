@@ -1,0 +1,1 @@
+RoPE embeddings + SwiGLU MLP, 8-layer GPT, 8 heads, 256 embd-dim, block size 128, dropout 0.2, trained for one epoch

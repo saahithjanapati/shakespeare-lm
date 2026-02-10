@@ -1,0 +1,6 @@
+{
+  "train_loss": 1.01697,
+  "validation_loss": 1.43134,
+  "test_loss": null,
+  "wandb_run": ""
+}
